@@ -23,7 +23,7 @@ I am a recent graduate from The City College of New York where I studied Compute
 
 ---
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan668)](https://github.com/Jonathan668/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan668)](https://github.com/Jonathan668/github-readme-stats)
+
 
 
 ---
