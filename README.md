@@ -27,7 +27,11 @@ I am a recent graduate from The City College of New York where I studied Compute
 ---
 ### 📫 Connect with me
 
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jonathan-so-2a4699192/)
+[<img width="28px" align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jonathan-so-2a4699192/)
+<a href="mailto:jonathanso668@gmail.com">
+<img width="28px" align="left" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+</a>
+
 
 
 
