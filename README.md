@@ -17,6 +17,7 @@ I am a recent graduate from The City College of New York where I studied Compute
 <img align="left" width="26px" alt="Git" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"/> 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan668)](https://github.com/Jonathan668/github-readme-stats)
 
 
 
