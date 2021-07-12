@@ -2,7 +2,7 @@
 
 I am a recent graduate from The City College of New York where I studied Computer Science. I am looking to start my career as a Web Developer. 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0f64d0a7b040059ba0586d40cc44451a6603f2f83cb0f02d4d57f2c9f4caede0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c65787a68656e3933267374796c653d706c6173746963266c6162656c3d56697369746f7273"><img src="https://camo.githubusercontent.com/0f64d0a7b040059ba0586d40cc44451a6603f2f83cb0f02d4d57f2c9f4caede0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c65787a68656e3933267374796c653d706c6173746963266c6162656c3d56697369746f7273" alt="Visitors" data-canonical-src="https://komarev.com/ghpvc/?username=Jonathan668&amp;style=plastic&amp;label=Visitors" style="max-width:100%;"></a></p>
+![](https://komarev.com/ghpvc/?username=Jonathan668&label=Visitors)
 
 ---
 
