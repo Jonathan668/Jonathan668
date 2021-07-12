@@ -6,7 +6,7 @@ I am a recent graduate from The City College of New York where I studied Compute
 
 - 👨‍💻 I'm currently working on Front End Libraries Certification from [freeCodeCamp](https://www.freecodecamp.org/)
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning <img  alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> , <img  alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> and <img  alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+- 🌱 I’m currently learning <img width="26px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> , <img width="26px" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> and <img width="26px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 - 💞️ I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to create digital art.
 
