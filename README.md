@@ -34,7 +34,7 @@ I am a recent graduate from The City College of New York where I studied Compute
 <img width="28px" align="left" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 </a>
 <br>
-<p align="left">To see my work, visit my portfolio <a href="https://jonathan668.github.io/" target="_blank">here.</a></p>
+<p align="left">To see my work, visit my portfolio <a href="https://jonathan668.github.io/">here.</a></p>
 
 
 
