@@ -24,6 +24,10 @@ I am a recent graduate from The City College of New York where I studied Compute
 ---
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan668)](https://github.com/Jonathan668/github-readme-stats)
 
+---
+### 📫 Connect with me
+
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>]https://www.linkedin.com/in/jonathan-so-2a4699192/
 
 
 
