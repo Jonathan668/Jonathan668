@@ -8,7 +8,7 @@ I am a recent graduate from The City College of New York where I studied Compute
 
 - 👨‍💻 I'm currently working on Front End Development Libraries Certification from [freeCodeCamp](https://www.freecodecamp.org/)
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning <img  alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+- 🌱 I’m currently learning <img width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 - 💞️ I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to create digital art.
 
